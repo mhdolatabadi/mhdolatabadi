@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+ <a href="#" alt="Mohammad Dolatabadi's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdolatabadi&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
