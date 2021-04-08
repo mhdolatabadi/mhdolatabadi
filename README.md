@@ -12,18 +12,18 @@ After going around the Linux distribution world finally I can't see anything bet
 ### education
 I am now studying computer engineering(you may know him computer science) at sharif university of technology which is a famous university in my country and has top rank in universities of IRI(Islamic Republic of Iran). Until now, I loved DS (Data Structure and Algorithms) and programming courses like fundamentals of programming, Advanced programming and mobile app programming. I know there are lots of things to learn in university, so let's go on!
 
+### contribution
+I am always open to contributing in open source projects around github, but i never try it. After that if you think i can resolve issues in any project just [contact](m.h.dolatabadi.a@gmail.com) me! now i prefer contributing in development of mobile applications. recently, i looking for a project and i'm going to select one in near future.
+
+##### PRs(Pull Requests)
+If you like one of my projects and you think you can improve it, I am always open to pull requests. so let try contribute in my projects to learn much more from each other.
+
 ### last and important
 At last with much proud i should say, i’m a muslim iranian.
 
 ## Favorite
 ### teaching
 I Like teaching a lot. Generally, I like to help anyone who needs it. I sometimes teach mathematics to someone in high school. but if you think I have knowledge about something, I would be really happy if you invite me to teach it to someone.
-
-### contribution
-I am always open to contributing in open source projects around github, but i never try it. After that if you think i can resolve issues in any project just [contact](m.h.dolatabadi.a@gmail.com) me! now i prefer contributing in development of mobile applications. recently, i looking for a project and i'm going to select one in near future.
-
-#### PRs(Pull Requests)
-If you like one of my projects and you think you can improve it, I am always open to pull requests. so let try contribute in my projects to learn much more from each other.
 
 ## Ablities
 After all, I should say I code with Java, C, C++ which are shown in my projects (don't forget to star them). i learnt them in [university](https://www.sharif.ir).
