@@ -23,10 +23,10 @@ After all, i should say i code with Java, C, C++ which are shown in my projects 
 
 
 ## Find me soon!
-[LinkedIn](https://www.linkedin.com/in/mohammadhossein-dolatabadi-a5b5701a6/)
-[StackOverFlow](https://stackoverflow.com/users/12337783/mohammad-hossein-dolatabadi-al)
-[Twitter](https://twitter.com/mhdolatabadi)
-also you can find me anywhere by @mhdolatabadi
+- [LinkedIn](https://www.linkedin.com/in/mohammadhossein-dolatabadi-a5b5701a6/)
+- [StackOverFlow](https://stackoverflow.com/users/12337783/mohammad-hossein-dolatabadi-al)
+- [Twitter](https://twitter.com/mhdolatabadi)
+- also you can find me anywhere by @mhdolatabadi
 
 <p align="center">
  <a href="#" alt="Mohammad Dolatabadi's github stats">
