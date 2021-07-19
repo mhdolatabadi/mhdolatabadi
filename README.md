@@ -5,6 +5,8 @@ I'm a fullstack developer. I also respect open source development, but it isn't 
 JS (i prefer to say instead of JavaScript) is my biggest favorite in my career. A language with capability of using in both frontend and backend, mobile app development and so anything else. There is a rational syntax, complex paradigm and flexibility in JS which can encourage you to go deep on it. Do you want to know how much time you need to learn JS completely? heh, you should know how you can be immortal first. but after watching some course in youtube which made by indian guys, you can go deeper by reading [You don't know JS yet](https://github.com/getify/You-Dont-Know-JS) books series written by [getify](https://github.com/getify).
 
 ### ubutnu
+I want to start with a sentence from linus torvalds:
+A computer is like air conditioning, it becomes useless if you open windows
 Who can live without ubuntu? show me!
 After going around the Linux distribution world finally I can't see anything better than ubuntu (you should know i also try fedora). its package manager `apt` and `snap` are very fast and complete. It has a big community around the world and it is very stable. you can hear more than this just by using [Google](https://www.google.com)!
 
