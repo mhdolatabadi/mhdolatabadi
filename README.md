@@ -6,7 +6,7 @@ JS (i prefer to say instead of JavaScript) is my biggest favorite in my career. 
 
 ### ubutnu
 I want to start with a sentence from linus torvalds:
-A computer is like air conditioning, it becomes useless if you open windows
+"A computer is like air conditioning, it becomes useless if you open windows".\n
 Who can live without ubuntu? show me!
 After going around the Linux distribution world finally I can't see anything better than ubuntu (you should know i also try fedora). its package manager `apt` and `snap` are very fast and complete. It has a big community around the world and it is very stable. you can hear more than this just by using [Google](https://www.google.com)!
 
