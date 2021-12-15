@@ -28,7 +28,7 @@ At last with much proud i should say, i’m a muslim iranian.
 I Like teaching a lot. Generally, I like to help anyone who needs it. I sometimes teach mathematics to someone in high school. but if you think I have knowledge about something, I would be really happy if you invite me to teach it to someone.
 
 ## Ablities
-After all, I should say I code with Java, C, C++ which are shown in my projects (don't forget to star them). i learnt them in [university](https://www.sharif.ir).
+After all, I should say I code with Python, Java, C, C++ which are shown in my projects (don't forget to star them). i learnt them in [university](https://www.sharif.ir).
 
 ## Find me soon!
 - [LinkedIn](https://www.linkedin.com/in/mohammadhossein-dolatabadi-a5b5701a6/)
