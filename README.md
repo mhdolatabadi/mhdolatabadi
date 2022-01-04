@@ -1,6 +1,11 @@
-## About me!
-### ℹ️ Bio
-I'm MohammadHossein Dolatabadi, computer engineering student at Sharif University of Technology. I'm a fullstack developer. I also respect open source development, but it isn't my priority (if you think something else, let's talk about it).
+It is a pleasure that you are here to see my profile.
+
+### Education 👨‍🎓
+I am now doing my Bachelor's in computer engineering (you may know computer science but there are some deferences between them) at Sharif University of Technology which is a famous university in Iran and top ranked university in glob. Until now, I loved DS (Data Structure and Algorithms) and programming courses like Fundamentals of Programming, Advanced Programming and Mobile App Programming (which contains android, ios and flutter development) and some hardware courses like Computer Architecture and Logic Design. I know there are still lots of things to learn in university, so let's go on!
+
+### Developer Story
+My story was started at first grade of highscool by coding with C++ programming language to getting ready for computing olympiad. Then i continue it after 2 years, in first days of university by learning and coding C and C++ programming languages. My first encounter with git and github was in those days. result of this part of journy was a project named [chat application](https://github.com/mhdolatabadi/chat-application). After that i got familiar with advanced programming paradigm like object-orietnd with learning and coding Java togheter. It was a good experience to do team work under a project as first time which result an implemnetation of [online store](https://github.com/AdvProg2020/Project_team-4). After one year in university, there was a turning point in this story and it was installing Ubuntu as a Linux distribution. First days with new OS for me who was lived with Windows since he was about 5 was so hard. But there was some ease in Linux that could'nt be ignored. For example i could stick in the terminal and do everything i want to do. Then i attend in a internship which in it i get familiar with JavaScript and it was another turining point in my career. I ended up the internship with a project named noghte bazi (means dots and boxes in persian) and having a adequate understanding of JavaScript and getting familiar with some JavaScript framework and library like Vue.js, Node.js, Express.js, Socket.io and a database management system, PostgreSQL and also an offer for working as a part-time fullstack developer. I agree that and learn React.js, Material-UI, and some technical concept of web programming. Let comeback to university again. During passing design of compilers course i programmed an one-pass compiler fo minified version of C programming language name C-minus, mostly written in python. 
+
 
 ### [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="25" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) JavaScript
 Let start with a sentece from Kyle Simpson: <br />
@@ -17,11 +22,10 @@ If you get familiar with Linux you can't stay programmer without it. Using comma
 Life is shorter than waste it on debate about which distribution is better but after try some Linux distributions, finally, i chose Ubuntu. Its package manager `apt` and `snap` are adequate. It has a big community so you can find your problems and questions soon (for exmaple see [ask ubuntu](https://askubuntu.com)). You can find out more, just by using [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google.svg" alt="JavaScript" width="55" align="center"/>](https://www.google.com)!
 
 
-### 👨‍🎓 Education
-I am now studying computer engineering(you may know computer science but there are some deferences between them) at Sharif University of Technology which is a famous and university in Iran and top ranked in glob. Until now, I loved DS (Data Structure and Algorithms) and programming courses like Fundamentals of Programming, Advanced Programming and Mobile App Programming(which contains android, ios and flutter learning) and hardware courses like Computer Architecture. I know there are lots of things to learn in university, so let's go on!
+
 
 ### 🤝 Contribution
-I am always open to contributing in open source projects around github, but i never try it. After that if you think i can resolve issues in any project just [contact](m.h.dolatabadi.a@gmail.com) me! now i prefer contributing in development of mobile applications. recently, i looking for a project and i'm going to select one in near future.
+I had always liked contributing to open source projects around github, but I never tried it.
 
 ###### ⤵️ PRs(Pull Requests)
 If you like one of my projects and you think you can improve it, I am always open to pull requests. so let try contribute in my projects to learn much more from each other.
