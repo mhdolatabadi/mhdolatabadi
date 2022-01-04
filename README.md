@@ -14,7 +14,7 @@ I want to start with a sentence from Linus Torvalds:
 
 If you get familiar with Linux you can't stay programmer without it. Using command line and many tools which linux provides helps you to do programming easier. Even if you use linux instead of window i promise you will be younger in long time ☺️. I sometimes try windows to see if it has changed or not, but it was as worse as then. <br/>
 ##### [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" alt="Ubuntu" width="25" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) Ubuntu
-After going around the Linux distribution world finally I can't see anything better than ubuntu (at least for me!). its package manager `apt` and `snap` are very fast and complete. It has a big community around the world and it is very stable. you can hear more than this just by using [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google.svg" alt="JavaScript" width="55" align="center"/>](https://www.google.com)!
+Life is shorter than waste it on debate about which distribution is better but after try some Linux distributions, finally, i chose Ubuntu. Its package manager `apt` and `snap` are adequate. It has a big community so you can find your problems and questions soon (for exmaple see [ask ubuntu](https://askubuntu.com)). You can find out more, just by using [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google.svg" alt="JavaScript" width="55" align="center"/>](https://www.google.com)!
 
 
 ### 👨‍🎓 Education
@@ -32,12 +32,12 @@ I Like teaching a lot. Generally, I like to help anyone who needs it. I sometime
 
 ## 💪 Ablities
 After all, I should say I code with 
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Java" width="20" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi),
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="20" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi),
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="20" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi),
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="CPP" width="20" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) and
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="Swift" width="20" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
-which are shown in my projects (don't forget to star them). I learnt them in [<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sharif_University_of_Technology_logo.svg" alt="JavaScript" width="20" align="center"/>](https://www.sharif.ir) university.
+- [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Java" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
+- [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
+- [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
+- [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="CPP" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
+- [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="Swift" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) </br>
+which are shown in my projects (don't forget to star them). I learnt them in [university](https://www.sharif.ir).
 
 ## Find me soon!
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn" width="30" align="center"/>](https://www.linkedin.com/in/mohammadhossein-dolatabadi-a5b5701a6/)
