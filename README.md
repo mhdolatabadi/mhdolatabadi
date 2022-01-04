@@ -1,12 +1,30 @@
 It is a pleasure that you are here to see my profile.
 
 ### Education 👨‍🎓
-I am now doing my Bachelor's in computer engineering (you may know computer science but there are some deferences between them) at Sharif University of Technology which is a famous university in Iran and top ranked university in glob. Until now, I loved DS (Data Structure and Algorithms) and programming courses like Fundamentals of Programming, Advanced Programming and Mobile App Programming (which contains android, ios and flutter development) and some hardware courses like Computer Architecture and Logic Design. I know there are still lots of things to learn in university, so let's go on!
+I am now doing my Bachelor's in computer engineering (you may know computer science but there are some deferences between them) at Sharif University of Technology which is a famous university in Iran and top ranked university in glob.<br />
 
-### Developer Story
-My story was started at first grade of highscool by coding with C++ programming language to getting ready for computing olympiad. Then i continue it after 2 years, in first days of university by learning and coding C and C++ programming languages. My first encounter with git and github was in those days. result of this part of journy was a project named [chat application](https://github.com/mhdolatabadi/chat-application). After that i got familiar with advanced programming paradigm like object-orietnd with learning and coding Java togheter. It was a good experience to do team work under a project as first time which result an implemnetation of [online store](https://github.com/AdvProg2020/Project_team-4). After one year in university, there was a turning point in this story and it was installing Ubuntu as a Linux distribution. First days with new OS for me who was lived with Windows since he was about 5 was so hard. But there was some ease in Linux that could'nt be ignored. For example i could stick in the terminal and do everything i want to do. Then i attend in a internship which in it i get familiar with JavaScript and it was another turining point in my career. I ended up the internship with a project named noghte bazi (means dots and boxes in persian) and having a adequate understanding of JavaScript and getting familiar with some JavaScript framework and library like Vue.js, Node.js, Express.js, Socket.io and a database management system, PostgreSQL and also an offer for working as a part-time fullstack developer. I agree that and learn React.js, Material-UI, and some technical concept of web programming. Let comeback to university again. During passing design of compilers course i programmed an one-pass compiler fo minified version of C programming language name C-minus, mostly written in python. 
+Until now, I loved DS (Data Structure and Algorithms) and programming courses like Fundamentals of Programming, Advanced Programming and Mobile App Programming (which contains android, ios and flutter development) and some hardware courses like Computer Architecture and Logic Design.<br/>
 
+I know there are still lots of things to learn in university, so let's go on!
 
+### Developer Story 📖
+My story started in the first grade of high school by coding with C++ programming language to get ready for the computing olympiad. After 2 years, I continued my path, by learning and coding C and C++ programming languages in the first days of university. My first encounter with git and github was in those days. The result of this part of the journey was a project named [chat application](https://github.com/mhdolatabadi/chat-application).<br/>
+
+After that, I got familiar with advanced programming paradigms like object-oriented programming and network programming and learnt and code them in Java. It was a good experience to do team work in a project which resulted in an implementation of an [online store](https://github.com/AdvProg2020/Project_team-4).<br/>
+
+After one year in university, there was a turning point in my story and it was installing Ubuntu as my second operating system. First days with the new OS, for me, who had lived with Windows since he was about 5, was so hard. But there was some ease in Linux that couldn't be ignored. For example I could stick in the terminal and do everything I want to do.<br/>
+
+Then I attended an internship in which I got familiar with JavaScript and it was another turning point in my career. I ended up the internship with a project named [noghte bazi](https://github.com/mhdolatabadi/noghte-bazi) (means dots and boxes in persian) and a adequate understanding of JavaScript and getting familiar with some JavaScript framework and library like Vue.js, Node.js, Express.js, Socket.io and a database management system, PostgreSQL and also an offer for working as a part-time full stack developer. I accepted that offer, and besides gaining experience in JavaScript, learnt React.js, Material-UI, and some technical concepts of web programming.<br/>
+
+Let's go back to the university again. Mobile programming course, helped me to get familiar with android, ios and flutter development. I ended this course with a team project which was an app for educational purposes named [LearnX](https://github.com/mob-developer/LearnX). That was a pleasant experience.<br/>
+
+I also got familiar with Python during the implementation of the project of the design of compilers course which resulted in a [one-pass compiler](https://github.com/mhdolatabadi/c-minus-compiler) for a minified version of C programming language called C-minus.<br/>
+
+At the end, I should say, Life is going on, and who knows about fate?
+
+## Favorites  ❤️ 
+### 👨‍🏫 Teaching
+I Like teaching a lot. Generally, I like to help anyone who needs it. I sometimes teach mathematics to someone in high school. but if you think I have knowledge about something, I would be really happy if you invite me to teach it to someone.
 ### [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="25" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) JavaScript
 Let start with a sentece from Kyle Simpson: <br />
 > When developers encounter confusion, they usually blame the language(JavaScript) instead of their lack of understanding.
@@ -21,18 +39,11 @@ If you get familiar with Linux you can't stay programmer without it. Using comma
 ##### [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" alt="Ubuntu" width="25" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) Ubuntu
 Life is shorter than waste it on debate about which distribution is better but after try some Linux distributions, finally, i chose Ubuntu. Its package manager `apt` and `snap` are adequate. It has a big community so you can find your problems and questions soon (for exmaple see [ask ubuntu](https://askubuntu.com)). You can find out more, just by using [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google.svg" alt="JavaScript" width="55" align="center"/>](https://www.google.com)!
 
-
-
-
-### 🤝 Contribution
+<!-- ### 🤝 Contribution
 I had always liked contributing to open source projects around github, but I never tried it.
 
 ###### ⤵️ PRs(Pull Requests)
 If you like one of my projects and you think you can improve it, I am always open to pull requests. so let try contribute in my projects to learn much more from each other.
-
-## ❤️ Favorite
-### 👨‍🏫 teaching
-I Like teaching a lot. Generally, I like to help anyone who needs it. I sometimes teach mathematics to someone in high school. but if you think I have knowledge about something, I would be really happy if you invite me to teach it to someone.
 
 ## 💪 Ablities
 After all, I should say I code with 
@@ -41,7 +52,7 @@ After all, I should say I code with
 - [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg" alt="C" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
 - [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg" alt="CPP" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi)
 - [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="Swift" width="30" align="center"/>](https://github.com/mhdolatabadi/mhdolatabadi) </br>
-which are shown in my projects (don't forget to star them). I learnt them in [university](https://www.sharif.ir).
+which are shown in my projects (don't forget to star them). I learnt them in [university](https://www.sharif.ir). -->
 
 ## Find me soon!
 [<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin-icon.svg" alt="LinkedIn" width="30" align="center"/>](https://www.linkedin.com/in/mohammadhossein-dolatabadi-a5b5701a6/)
