@@ -82,6 +82,13 @@ Life is shorter than waste it on debate about which distribution is better but a
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
+### Tools
+![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
+![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellij-idea)
+
+
+
 ### Programming Pradigms and Soft Skills
 ![skill](https://img.shields.io/badge/-ObjectOriented%20Programming-000?&logo=skill)
 ![skill](https://img.shields.io/badge/-Functional%20Programming-000?&logo=skill)
