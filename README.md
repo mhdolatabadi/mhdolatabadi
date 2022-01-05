@@ -1,8 +1,9 @@
 ### It is a pleasure that you are here to see my profile. 😍
-I'm Mohammad Hossein Dolatabadi. \
-&nbsp;&nbsp;&nbsp; 👨‍💻 I am a Junior Full-Stack Developer from Qazvin, Iran. <br/>
-&nbsp;&nbsp;&nbsp; 👨‍🎓 I am doing my Bachelor's in computer engineering at Shairf University of Technology.<br/>
-&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="18" align="top"/> I love JavaScript and always prefer to code with it. <br/>
+I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif University of Technology](https://en.sharif.edu/). Fascinated by everything that's CS related. Proudly a muslim from Islamic Repulic of Iran.
+- 👨‍💻 Junior Full-Stack Developer from Qazvin, Iran. <br/>
+- 👨‍🎓 I am doing my Bachelor's in computer engineering at SUT.<br/>
+- ⚙️ Mastering: `.html`, `.html`,`.js`,`.ts`. <br/>
+- I’m looking to collaborate on Open Source projects. <br />
 ###### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:m.h.dolatabadi.a@gmail.com)
 
