@@ -1,9 +1,10 @@
 ### It is a pleasure that you are here to see my profile. 😍
-I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif University of Technology](https://en.sharif.edu/). Fascinated by everything that's CS related. Proudly a muslim from Islamic Repulic of Iran.
+I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif University of Technology](https://en.sharif.edu/). Fascinated by programming and everything that's CS related. Proudly a muslim from Islamic Repulic of Iran.
 - 👨‍💻 Junior Full-Stack Developer from Qazvin, Iran. <br/>
 - 👨‍🎓 I am doing my Bachelor's in computer engineering at SUT.<br/>
-- ⚙️ Mastering: `.html`, `.html`,`.js`,`.ts`. <br/>
-- I’m looking to collaborate on Open Source projects. <br />
+- 💪 Mastering: `.html`, `.html`,`.js`,`.ts`. <br/>
+- ❤️ I’m looking to collaborate on Open Source projects. <br />
+- 📚 I always trying to learn as much as possible. <br />
 ###### Contact me
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:m.h.dolatabadi.a@gmail.com)
 
