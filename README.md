@@ -1,4 +1,4 @@
-### It is a pleasure that you are here to see my profile.
+### It is a pleasure that you are here to see my profile. 😍
 I'm Mohammad Hossein Dolatabadi. \
 &nbsp;&nbsp;&nbsp; 👨‍💻 I am a Junior Full-Stack Developer from Qazvin, Iran. <br/>
 &nbsp;&nbsp;&nbsp; 👨‍🎓 I am doing my Bachelor's in computer engineering at Shairf University of Technology.<br/>
@@ -86,6 +86,13 @@ Life is shorter than waste it on debate about which distribution is better but a
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellij-idea)
+![IntelliJ](https://img.shields.io/badge/-Photoshop-000?&logo=Adobe-Photoshop)
+![IntelliJ](https://img.shields.io/badge/-Word-000?&logo=microsoft-word)
+![IntelliJ](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
+![IntelliJ](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint)
+
+
+
 
 
 
@@ -122,10 +129,9 @@ Life is shorter than waste it on debate about which distribution is better but a
 ### More?
 Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 
-###### just works in iran :(
 [![BuyMeACoffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-000?&logo=buymeacoffee)](https://coffeebede.ir/buycoffee/mhdolatabadi)
-[![PayPal](https://img.shields.io/badge/-PayPal-000?&logo=paypal)](https://idpay.ir/mhdolatabadi)
-
+<!-- [![PayPal](https://img.shields.io/badge/-IdPay-000?&logo=paypal)](https://idpay.ir/mhdolatabadi)
+ -->
 
 
 ### Stats
