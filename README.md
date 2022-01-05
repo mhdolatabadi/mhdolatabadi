@@ -121,6 +121,15 @@ Life is shorter than waste it on debate about which distribution is better but a
 - [ ] ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 - [ ] ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 
+### What i hate
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows)
+![Facebook](https://img.shields.io/badge/-Facebook-000?&logo=facebook)
+![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?&logo=whatsapp)
+![Google](https://img.shields.io/badge/-Google-000?&logo=google)
+
+
+
+
 ### Find me soon!
 ![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)
