@@ -5,7 +5,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 - 💪 Mastering: `.html`, `.css`,`.js`,`.ts`. <br/>
 - ❤️ I’m looking to collaborate on Open Source projects. <br />
 - 📚 I always trying to learn as much as possible. <br />
-###### Contact me
+###### Contact me (fastest way)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:m.h.dolatabadi.a@gmail.com)
 
 ### Languages
