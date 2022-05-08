@@ -1,3 +1,7 @@
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=mhdolatabadi&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/mhdolatabadi/mhdolatabadi?color=black&logo=github" />
+</p>
 ### It is a pleasure that you are here to see my profile. 😍
 I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif University of Technology](https://en.sharif.edu/). Fascinated by programming and everything that's CS related. Proudly a muslim from Islamic Repulic of Iran.
 - 👨‍💻 Junior Full-Stack Developer from Qazvin, Iran. <br/>
@@ -107,8 +111,5 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 </p>
 
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=mhdolatabadi&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/mhdolatabadi/mhdolatabadi?color=black&logo=github" />
-</p>
+
 
