@@ -86,7 +86,7 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
  -->
 
 
-### Stats
+### A few statistics
 
 <p align="center">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mhdolatabadi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
