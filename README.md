@@ -103,4 +103,7 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 <img src="https://badges.pufler.dev/visits/mhdolatabadi/mhdolatabadi?color=black&logo=github" />
 </p>
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
