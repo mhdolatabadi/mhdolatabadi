@@ -88,8 +88,6 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 
 ### Stats
 
-<details>
- <summary>Github</summary>
 <p align="center">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mhdolatabadi&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdolatabadi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
@@ -98,9 +96,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
   <br>
 <!--   <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a> -->
 </p>
-</details>
+
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=mhdolatabadi&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/mhdolatabadi/mhdolatabadi?color=black&logo=github" />
 </p>
+
+<!--START_SECTION:activity-->
