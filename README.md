@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/2) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-2. 💪 Opened PR [#2](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/2) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-3. 💪 Opened PR [#130](https://github.com/babakhani/PersianDate/pull/130) in [babakhani/PersianDate](https://github.com/babakhani/PersianDate)
-4. 🎉 Merged PR [#1](https://github.com/mhdolatabadi/chicken-invaders/pull/1) in [mhdolatabadi/chicken-invaders](https://github.com/mhdolatabadi/chicken-invaders)
-5. 💪 Opened PR [#1](https://github.com/mhdolatabadi/chicken-invaders/pull/1) in [mhdolatabadi/chicken-invaders](https://github.com/mhdolatabadi/chicken-invaders)
+1. ❗️ Opened issue [#2](https://github.com/hamidreza01/excuse/issues/2) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
+2. 💪 Opened PR [#1](https://github.com/hamidreza01/excuse/pull/1) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
+3. 🎉 Merged PR [#2](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/2) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+4. 💪 Opened PR [#2](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/2) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+5. 💪 Opened PR [#130](https://github.com/babakhani/PersianDate/pull/130) in [babakhani/PersianDate](https://github.com/babakhani/PersianDate)
 <!--END_SECTION:activity-->
 
 ### A few statistics
