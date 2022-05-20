@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/5) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-2. 💪 Opened PR [#5](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/5) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-3. ❗️ Opened issue [#2](https://github.com/hamidreza01/excuse/issues/2) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
-4. 💪 Opened PR [#1](https://github.com/hamidreza01/excuse/pull/1) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
-5. 🎉 Merged PR [#2](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/2) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+1. 🗣 Commented on [#10505](https://github.com/linuxmint/cinnamon/issues/10505) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
+2. 🎉 Merged PR [#5](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/5) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+3. 💪 Opened PR [#5](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/5) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+4. ❗️ Opened issue [#2](https://github.com/hamidreza01/excuse/issues/2) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
+5. 💪 Opened PR [#1](https://github.com/hamidreza01/excuse/pull/1) in [hamidreza01/excuse](https://github.com/hamidreza01/excuse)
 <!--END_SECTION:activity-->
 
 ### A few statistics
