@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/10) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-2. 💪 Opened PR [#10](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/10) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-3. 🎉 Merged PR [#9](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/9) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-4. 💪 Opened PR [#9](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/9) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-5. 🎉 Merged PR [#8](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/8) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+1. 🎉 Merged PR [#11](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/11) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+2. 💪 Opened PR [#11](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/11) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+3. 🎉 Merged PR [#10](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/10) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+4. 💪 Opened PR [#10](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/10) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+5. 🎉 Merged PR [#9](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/9) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
 <!--END_SECTION:activity-->
 
 ### A few statistics
