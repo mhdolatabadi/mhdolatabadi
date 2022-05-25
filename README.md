@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/7) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-2. 💪 Opened PR [#7](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/7) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-3. 💪 Opened PR [#6](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/6) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-4. 🗣 Commented on [#10505](https://github.com/linuxmint/cinnamon/issues/10505) in [linuxmint/cinnamon](https://github.com/linuxmint/cinnamon)
-5. 🎉 Merged PR [#5](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/5) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+1. 🎉 Merged PR [#8](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/8) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+2. 💪 Opened PR [#8](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/8) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+3. 🎉 Merged PR [#7](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/7) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+4. 💪 Opened PR [#7](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/7) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+5. 💪 Opened PR [#6](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/6) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
 <!--END_SECTION:activity-->
 
 ### A few statistics
