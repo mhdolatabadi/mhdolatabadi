@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/mhdolatabadi/noghte-bazi/pull/29) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
-2. 🎉 Merged PR [#30](https://github.com/mhdolatabadi/noghte-bazi/pull/30) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
-3. 🎉 Merged PR [#11](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/11) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-4. 💪 Opened PR [#11](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/11) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-5. 🎉 Merged PR [#10](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/10) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+1. 🎉 Merged PR [#33](https://github.com/mhdolatabadi/noghte-bazi/pull/33) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
+2. 🎉 Merged PR [#34](https://github.com/mhdolatabadi/noghte-bazi/pull/34) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
+3. 🎉 Merged PR [#31](https://github.com/mhdolatabadi/noghte-bazi/pull/31) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
+4. 🎉 Merged PR [#32](https://github.com/mhdolatabadi/noghte-bazi/pull/32) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
+5. 🎉 Merged PR [#29](https://github.com/mhdolatabadi/noghte-bazi/pull/29) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
 <!--END_SECTION:activity-->
 
 ### A few statistics
