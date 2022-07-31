@@ -77,11 +77,11 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![Google](https://img.shields.io/badge/-Google-000?&logo=google)
 
 ### Find me soon!
-![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)
-![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-000?&logo=stackoverflow)
-![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)
-![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)](https://twitter.com/mhdolatabadi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/mhdolatabadi)
+[![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-000?&logo=stackoverflow)](https://stackoverflow.com/users/12337783/mohammadhossein-dolatabadi)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=telegram)](https://telegram.org/mhdolatabadi)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)](https://instagram.com/mhdolatabadi)
 
 ### More?
 Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
