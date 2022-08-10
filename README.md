@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/Sharif-OS-Lab/session-1-2/pull/33) in [Sharif-OS-Lab/session-1-2](https://github.com/Sharif-OS-Lab/session-1-2)
-2. 🎉 Merged PR [#12](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/12) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-3. 💪 Opened PR [#12](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/12) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
-4. 🎉 Merged PR [#33](https://github.com/mhdolatabadi/noghte-bazi/pull/33) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
-5. 🎉 Merged PR [#34](https://github.com/mhdolatabadi/noghte-bazi/pull/34) in [mhdolatabadi/noghte-bazi](https://github.com/mhdolatabadi/noghte-bazi)
+1. 🎉 Merged PR [#35](https://github.com/mhdolatabadi/dots-and-boxes/pull/35) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+2. 🎉 Merged PR [#36](https://github.com/mhdolatabadi/dots-and-boxes/pull/36) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+3. 💪 Opened PR [#33](https://github.com/Sharif-OS-Lab/session-1-2/pull/33) in [Sharif-OS-Lab/session-1-2](https://github.com/Sharif-OS-Lab/session-1-2)
+4. 🎉 Merged PR [#12](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/12) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
+5. 💪 Opened PR [#12](https://github.com/Sharif-League-of-Coders/LoC-Site-Front/pull/12) in [Sharif-League-of-Coders/LoC-Site-Front](https://github.com/Sharif-League-of-Coders/LoC-Site-Front)
 <!--END_SECTION:activity-->
 
 ### A few statistics
