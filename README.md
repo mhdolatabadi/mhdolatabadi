@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-2. 🎉 Merged PR [#37](https://github.com/mhdolatabadi/dots-and-boxes/pull/37) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-3. 🎉 Merged PR [#38](https://github.com/mhdolatabadi/dots-and-boxes/pull/38) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-4. 🎉 Merged PR [#35](https://github.com/mhdolatabadi/dots-and-boxes/pull/35) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-5. 🎉 Merged PR [#36](https://github.com/mhdolatabadi/dots-and-boxes/pull/36) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+1. 🎉 Merged PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+2. 💪 Opened PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+3. 🎉 Merged PR [#37](https://github.com/mhdolatabadi/dots-and-boxes/pull/37) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+4. 🎉 Merged PR [#38](https://github.com/mhdolatabadi/dots-and-boxes/pull/38) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+5. 🎉 Merged PR [#35](https://github.com/mhdolatabadi/dots-and-boxes/pull/35) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
 <!--END_SECTION:activity-->
 
 ### A few statistics
