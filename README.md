@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/weblite-im/scroll-picker/pull/2) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-2. 💪 Opened PR [#2](https://github.com/weblite-im/scroll-picker/pull/2) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-3. 🎉 Merged PR [#1](https://github.com/Webelopers-Video/Frontend/pull/1) in [Webelopers-Video/Frontend](https://github.com/Webelopers-Video/Frontend)
-4. 🎉 Merged PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-5. 💪 Opened PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+1. 💪 Opened PR [#3](https://github.com/weblite-im/scroll-picker/pull/3) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+2. 🎉 Merged PR [#2](https://github.com/weblite-im/scroll-picker/pull/2) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+3. 💪 Opened PR [#2](https://github.com/weblite-im/scroll-picker/pull/2) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
+4. 🎉 Merged PR [#1](https://github.com/Webelopers-Video/Frontend/pull/1) in [Webelopers-Video/Frontend](https://github.com/Webelopers-Video/Frontend)
+5. 🎉 Merged PR [#1](https://github.com/weblite-im/scroll-picker/pull/1) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
 <!--END_SECTION:activity-->
 
 ### A few statistics
