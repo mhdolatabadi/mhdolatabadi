@@ -65,8 +65,8 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![course](https://img.shields.io/badge/-Database-000?&logo=skill)
 
 ### What i'm going to learn
+- [X] ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 - [ ] ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
-- [ ] ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 - [ ] ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 - [ ] ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 
