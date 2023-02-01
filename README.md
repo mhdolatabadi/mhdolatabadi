@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/weblite-im/scroll-picker/issues/4) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-2. 🎉 Merged PR [#5](https://github.com/weblite-im/scroll-picker/pull/5) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-3. 💪 Opened PR [#5](https://github.com/weblite-im/scroll-picker/pull/5) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-4. ❗️ Opened issue [#4](https://github.com/weblite-im/scroll-picker/issues/4) in [weblite-im/scroll-picker](https://github.com/weblite-im/scroll-picker)
-5. 🎉 Merged PR [#41](https://github.com/mhdolatabadi/dots-and-boxes/pull/41) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+1. 🎉 Merged PR [#47](https://github.com/mhdolatabadi/dots-and-boxes/pull/47) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+2. 🎉 Merged PR [#48](https://github.com/mhdolatabadi/dots-and-boxes/pull/48) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+3. 🎉 Merged PR [#49](https://github.com/mhdolatabadi/dots-and-boxes/pull/49) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+4. 🎉 Merged PR [#50](https://github.com/mhdolatabadi/dots-and-boxes/pull/50) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+5. 🎉 Merged PR [#1](https://github.com/mhdolatabadi/os-project/pull/1) in [mhdolatabadi/os-project](https://github.com/mhdolatabadi/os-project)
 <!--END_SECTION:activity-->
 
 ### A few statistics
