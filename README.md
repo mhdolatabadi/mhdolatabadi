@@ -93,11 +93,11 @@ Visit [my homepage 🏠](http://ce.sharif.edu/~mhdolatabadia/)<br/>
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/mhdolatabadi/dots-and-boxes/pull/54) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-2. 🎉 Merged PR [#53](https://github.com/mhdolatabadi/dots-and-boxes/pull/53) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-3. 🎉 Merged PR [#47](https://github.com/mhdolatabadi/dots-and-boxes/pull/47) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-4. 🎉 Merged PR [#48](https://github.com/mhdolatabadi/dots-and-boxes/pull/48) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-5. 🎉 Merged PR [#49](https://github.com/mhdolatabadi/dots-and-boxes/pull/49) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+1. 🎉 Merged PR [#51](https://github.com/mhdolatabadi/dots-and-boxes/pull/51) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+2. 🎉 Merged PR [#52](https://github.com/mhdolatabadi/dots-and-boxes/pull/52) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+3. 🎉 Merged PR [#55](https://github.com/mhdolatabadi/dots-and-boxes/pull/55) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+4. 🎉 Merged PR [#54](https://github.com/mhdolatabadi/dots-and-boxes/pull/54) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+5. 🎉 Merged PR [#53](https://github.com/mhdolatabadi/dots-and-boxes/pull/53) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
 <!--END_SECTION:activity-->
 
 ### A few statistics
