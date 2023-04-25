@@ -12,6 +12,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 - 📚 I always trying to learn as much as possible. <br />
 ###### Contact me (fastest way)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:m.h.dolatabadi.a@gmail.com)
+[![Proton](https://img.shields.io/badge/-Proton%20Mail-000?&logo=protonmail)](mailto:mhdolatabadia@proton.me)
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
