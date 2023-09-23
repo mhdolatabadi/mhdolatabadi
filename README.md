@@ -17,7 +17,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -37,7 +37,15 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![Nest.js](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![Nest.js](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Spark](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Spark-000?&logo=apachespark)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
+![Hadoop](https://img.shields.io/badge/-Helm-000?&logo=helm)
+![Hadoop](https://img.shields.io/badge/-Ansible-000?&logo=ansible)
+
+
+
 
 ### Tools
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
@@ -50,7 +58,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 
 ### Programming Pradigms and Soft Skills
 ![skill](https://img.shields.io/badge/-ObjectOriented%20Programming-000?&logo=skill)
-![skill](https://img.shields.io/badge/-Functional%20Programming-000?&logo=skill)
+![skill](https://img.shields.io/badge/-Functional%20Programming-000?&logo=lisp)
 ![skill](https://img.shields.io/badge/-Agile-000?&logo=skill)
 ![skill](https://img.shields.io/badge/-Scrum-000?&logo=skill)
 
@@ -64,6 +72,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![course](https://img.shields.io/badge/-Assembly-000?&logo=skill)
 ![course](https://img.shields.io/badge/-Design%20of%20Compilers-000?&logo=skill)
 ![course](https://img.shields.io/badge/-Database-000?&logo=skill)
+
 
 ### What i'm going to learn
 - [X] ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
