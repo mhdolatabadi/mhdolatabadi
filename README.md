@@ -14,7 +14,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 [![Gmail](https://img.shields.io/badge/-Gmail-000?&logo=gmail)](mailto:m.h.dolatabadi.a@gmail.com)
 [![Proton](https://img.shields.io/badge/-Proton%20Mail-000?&logo=protonmail)](mailto:mhdolatabadia@proton.me)
 
-### Languages
+### 🗺️ Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
@@ -25,7 +25,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 
-### Technologies
+### 👨‍💻 Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -47,7 +47,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 
 
 
-### Tools
+### 🧰 Tools
 ![VIM](https://img.shields.io/badge/-Vim-000?&logo=vim)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?&logo=intellij-idea)
@@ -62,7 +62,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![skill](https://img.shields.io/badge/-Agile-000?&logo=skill)
 ![skill](https://img.shields.io/badge/-Scrum-000?&logo=skill)
 
-### Courses
+### 📚 Courses
 ![course](https://img.shields.io/badge/-Fundamental%20of%20Programming-000?&logo=skill)
 ![course](https://img.shields.io/badge/-Advanced%20Programming-000?&logo=skill)
 ![course](https://img.shields.io/badge/-Data%20Structure%20and%20Algorithms-000?&logo=skill)
@@ -86,7 +86,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?&logo=whatsapp)
 ![Google](https://img.shields.io/badge/-Google-000?&logo=google)
 
-### Find me soon!
+### 🔜 Find me soon! 
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)](https://twitter.com/mhdolatabadi)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)](https://linkedin.com/in/mhdolatabadi)
 [![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-000?&logo=stackoverflow)](https://stackoverflow.com/users/12337783/mohammadhossein-dolatabadi)
@@ -94,7 +94,7 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=instagram)](https://instagram.com/mhdolatabadi)
 
 ### More?
-[![](https://img.shields.io/badge/-Visit%20My%20Homepage-009eff)](http://ce.sharif.edu/~mhdolatabadia/)
+[![](https://img.shields.io/badge/-Visit%20My%20Homepage-009eff)](https://mhdolatabadi.github.io/homepage/)
 [![BuyMeACoffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-000?&logo=buymeacoffee)](https://coffeebede.ir/buycoffee/mhdolatabadi)
 <!-- [![PayPal](https://img.shields.io/badge/-IdPay-000?&logo=paypal)](https://idpay.ir/mhdolatabadi)
  -->
