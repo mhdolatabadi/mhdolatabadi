@@ -102,11 +102,11 @@ I'm Mohammad Hossein Dolatabadi. Computer Engineering Student at [Sharif Univers
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ssc-public/Hardwar-Website/pull/3) in [ssc-public/Hardwar-Website](https://github.com/ssc-public/Hardwar-Website)
-2. 🎉 Merged PR [#51](https://github.com/mhdolatabadi/dots-and-boxes/pull/51) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-3. 🎉 Merged PR [#52](https://github.com/mhdolatabadi/dots-and-boxes/pull/52) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-4. 🎉 Merged PR [#55](https://github.com/mhdolatabadi/dots-and-boxes/pull/55) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
-5. 🎉 Merged PR [#54](https://github.com/mhdolatabadi/dots-and-boxes/pull/54) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+1. 🎉 Merged PR [#1](https://github.com/mhdolatabadi/financial-dashboard-front/pull/1) in [mhdolatabadi/financial-dashboard-front](https://github.com/mhdolatabadi/financial-dashboard-front)
+2. 🎉 Merged PR [#3](https://github.com/mhdolatabadi/os-project/pull/3) in [mhdolatabadi/os-project](https://github.com/mhdolatabadi/os-project)
+3. 🎉 Merged PR [#2](https://github.com/mhdolatabadi/os-project/pull/2) in [mhdolatabadi/os-project](https://github.com/mhdolatabadi/os-project)
+4. 🎉 Merged PR [#56](https://github.com/mhdolatabadi/dots-and-boxes/pull/56) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
+5. 🎉 Merged PR [#57](https://github.com/mhdolatabadi/dots-and-boxes/pull/57) in [mhdolatabadi/dots-and-boxes](https://github.com/mhdolatabadi/dots-and-boxes)
 <!--END_SECTION:activity-->
 
 ### A few statistics
