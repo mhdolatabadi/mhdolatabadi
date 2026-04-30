@@ -9,14 +9,16 @@ jobs:
         run: |
           wget https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf
       
-      - name: Zip the model
+      - name: Split into 10 parts
         run: |
-          zip model.zip *.gguf
+          FILESIZE=$(stat -c%s *.gguf)
+          PARTSIZE=$((FILESIZE / 10 + 1))
+          split -b ${PARTSIZE} *.gguf model.part.
       
       - name: Upload to release
         uses: softprops/action-gh-release@v1
         with:
-          files: model.zip
+          files: model.part.*
           tag_name: model-v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
